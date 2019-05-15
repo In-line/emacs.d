@@ -1,0 +1,26 @@
+# -*-	mode: conf; -*-
+abbrev_defs
+auto-save-list
+elpa
+emojis
+eshell
+history
+ido.last
+jabber-history
+jabber-otr
+magithub
+places
+quelpa
+recentf
+request
+secrets
+smex-items
+tramp
+url
+# backups
+*~
+\#*\#
+# compiled files
+*.elc
+projectile-bookmarks.eld
+*.html
